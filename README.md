@@ -23,4 +23,9 @@ Para os dados de treinamento separamos apenas as colunas referentes as caracteri
 
 A partir desses dados, temos por meta realizar o treinamento de uma rede neural para poder, pelas caracteristicas de um penguin, classificar qual e a especie de pinguim.
 
+## Codigo 
+Para realizar a todo o processamento e treino da rede neural utilezei a plataforma do Google Colaboratory ![colaboratory](https://blog.netdata.cloud/assets/images/colab-a699aa465989ccdc63feb80cdd107224.png). Devido ao bom desempenho de processamento e a facilidade que o Colab traz para podermos utilizar as principais bibliotecas que precisaremos para o treinamento da rede neural
 
+Segue o link do notebook do colab [Rede Neural](https://colab.research.google.com/drive/1-Du_dW43OsaU605Na01wbHvA4qB6NHXK?usp=sharing)
+Voce pode acessar e realizar os teste. 
+No final do notebook temos uma breve analise do desempenho da rede neural
