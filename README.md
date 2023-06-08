@@ -19,7 +19,7 @@ No banco de dados utilizado temos como base 3 especies de pinguin, sendo elas: A
 
 Para os dados de treinamento separamos apenas as colunas referentes as caracteristicas especificas de cada pinguin, associando a especie do pinguim
 
-![Grafico de comparção entre a massa corpora e as caracteristicas de cada especie](/home/nathan_santos/Documentos/GitHub/Rede_neural_Penguins/Graficos/comparacao_massaXcorpo.png)
+![Grafico de comparção entre a massa corpora e as caracteristicas de cada especie](https://github.com/NathanSFon/Rede_neural_Penguins/blob/main/Graficos/comparacao_massaXcorpo.png)
 
 A partir desses dados, temos por meta realizar o treinamento de uma rede neural para poder, pelas caracteristicas de um penguin, classificar qual e a especie de pinguim.
 
